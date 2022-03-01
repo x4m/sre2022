@@ -23,7 +23,7 @@
 * Kubernetes
 * ELK - Elastic, Logstash, Kibana - показать как развернуть и как использовать
 * AWS S3, организация CDN, возможности
-* **PestovMaxim **BGP, роутинг в больших сетях, простейшие настройки
+* **PestovMaxim** BGP, роутинг в больших сетях, простейшие настройки
 * Terraform - развернуть простейший сервис
 * **yarah34** CI CD в Github
 * CI CD в Gitlab
