@@ -17,7 +17,7 @@
 * ASP.NET MVC Core
 * Ruby on rails
 * DNS - регистрация DNS имени в любом регистраторе
-* DynDNS - настроить DNS на свою VM
+* DynDNS - настроить DNS на свою VM\router\RaspberryPI
 * TLS - настроить TLS на всоей VM, OpenSSL
 * Kubernetes
 * ELK - Elastic, Logstash, Kibana - показать как развернуть и как использовать
