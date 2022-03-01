@@ -25,7 +25,7 @@
 * AWS S3, организация CDN, возможности
 * BGP, роутинг в больших сетях, простейшие настройки
 * Terraform - развернуть простейший сервис
-* CI CD в Github
+* **yarah34** CI CD в Github
 * CI CD в Gitlab
 * CI CD в Bitbucket
 * Jenkins
