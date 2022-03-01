@@ -13,7 +13,7 @@
 * **vketel** Docker - архитектура, использование в разработке, репозитарии
 * NGINX, Envoy
 * Go web server
-* **nvetoshkin**Django
+* **nvetoshkin** Django
 * ASP.NET MVC Core
 * Ruby on rails
 * Elixir
