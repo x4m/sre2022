@@ -17,7 +17,7 @@
 * ASP.NET MVC Core
 * Ruby on rails
 * Elixir
-* **Kronos** DNS - регистрация DNS имени в любом регистраторе
+* DNS - регистрация DNS имени в любом регистраторе
 * DynDNS - настроить DNS на свою VM\router\RaspberryPI
 * **ArtemMartynov** TLS - настроить TLS на всоей VM, OpenSSL
 * Kubernetes
@@ -35,6 +35,6 @@
 * PostGIS - у нас же курс про ГИС, давайте поговорим про карты
 * Prometheus/Grafana - красивые штуки чтобы рисовать графики денег на банковсом счёте
 * Saltstack
-* Ansible
+* **Kronos** Ansible
 * Puppet
 * MongoDB
