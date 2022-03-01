@@ -28,3 +28,5 @@
 * CI CD в Gitlab
 * Jenkins
 * git - свой сервер
+* Open Container Initiative - https://opencontainers.org/ как пользоваться и что это вообще такое
+* Swarm - оркестрация контейнеров
