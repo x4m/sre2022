@@ -16,6 +16,7 @@
 * Django
 * ASP.NET MVC Core
 * Ruby on rails
+* Elixir
 * **Kronos** DNS - регистрация DNS имени в любом регистраторе
 * DynDNS - настроить DNS на свою VM\router\RaspberryPI
 * TLS - настроить TLS на всоей VM, OpenSSL
@@ -32,3 +33,7 @@
 * Open Container Initiative - https://opencontainers.org/ как пользоваться и что это вообще такое
 * Swarm - оркестрация контейнеров
 * PostGIS - у нас же курс про ГИС, давайте поговорим про карты
+* Prometheus/Grafana - красивые штуки чтобы рисовать графики денег на банковсом счёте
+* Saltstack
+* Ansible
+* Puppet
