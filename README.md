@@ -30,3 +30,4 @@
 * git - свой сервер
 * Open Container Initiative - https://opencontainers.org/ как пользоваться и что это вообще такое
 * Swarm - оркестрация контейнеров
+* PostGIS - у нас же курс про ГИС, давайте поговорим про карты
