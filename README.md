@@ -20,7 +20,7 @@
 * DNS - регистрация DNS имени в любом регистраторе
 * DynDNS - настроить DNS на свою VM\router\RaspberryPI
 * **ArtemMartynov** TLS - настроить TLS на всоей VM, OpenSSL
-* Kubernetes
+* **ElenaKhudiakova** ***ROcket-DIma** **Violetta16** Kubernetes
 * ELK - Elastic, Logstash, Kibana - показать как развернуть и как использовать
 * AWS S3, организация CDN, возможности
 * BGP, роутинг в больших сетях, простейшие настройки
