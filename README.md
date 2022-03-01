@@ -16,7 +16,7 @@
 * Django
 * ASP.NET MVC Core
 * Ruby on rails
-* **Ульянихин Евгений Ильич** DNS - регистрация DNS имени в любом регистраторе
+* **Kronos** DNS - регистрация DNS имени в любом регистраторе
 * DynDNS - настроить DNS на свою VM\router\RaspberryPI
 * TLS - настроить TLS на всоей VM, OpenSSL
 * Kubernetes
