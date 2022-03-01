@@ -26,6 +26,7 @@
 * Terraform - развернуть простейший сервис
 * CI CD в Github
 * CI CD в Gitlab
+* CI CD в Bitbucket
 * Jenkins
 * git - свой сервер
 * Open Container Initiative - https://opencontainers.org/ как пользоваться и что это вообще такое
