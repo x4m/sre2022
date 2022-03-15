@@ -18,7 +18,7 @@
 * Ruby on rails
 * Elixir
 * DNS - регистрация DNS имени в любом регистраторе
-* DynDNS - настроить DNS на свою VM\router\RaspberryPI
+* **Ner0N** DynDNS - настроить DNS на свою VM\router\RaspberryPI
 * **ArtemMartynov** TLS - настроить TLS на всоей VM, OpenSSL
 * **ElenaKhudiakova** ***ROcket-DIma** **Violetta16** Kubernetes
 * ELK - Elastic, Logstash, Kibana - показать как развернуть и как использовать
