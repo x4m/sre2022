@@ -35,6 +35,6 @@
 * PostGIS - у нас же курс про ГИС, давайте поговорим про карты
 * Prometheus/Grafana - красивые штуки чтобы рисовать графики денег на банковсом счёте
 * Saltstack
-* **Kronos** Ansible
+* **Kronos** Ansible  Готово https://github.com/Tyz3/ansible-openvpn
 * Puppet
 * MongoDB
