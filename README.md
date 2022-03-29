@@ -17,7 +17,7 @@
 * ASP.NET MVC Core
 * Ruby on rails
 * Elixir
-* DNS - регистрация DNS имени в любом регистраторе
+* **PestovMaxim** DNS - регистрация DNS имени в любом регистраторе
 * **Ner0N** DynDNS - настроить DNS на свою VM\router\RaspberryPI
 * **ArtemMartynov** TLS - настроить TLS на всоей VM, OpenSSL
 * **ElenaKhudiakova** ***ROcket-DIma** **Violetta16** Kubernetes
