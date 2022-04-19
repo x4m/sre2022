@@ -28,7 +28,7 @@
 * CI CD в Github
 * CI CD в Gitlab
 * CI CD в Bitbucket
-* **Polina** Jenkins
+* **Polina** Jenkins - https://gitlab.com/d4910/jenkins_demo
 * git - свой сервер
 * Open Container Initiative - https://opencontainers.org/ как пользоваться и что это вообще такое
 * Swarm - оркестрация контейнеров
