@@ -17,7 +17,7 @@
 * ASP.NET MVC Core
 * Ruby on rails
 * Elixir
-* **PestovMaxim** DNS - регистрация DNS имени в любом регистраторе
+* **PestovMaxim** DNS - регистрация DNS имени в любом регистраторе - https://github.com/PestovMaxim/domain-name
 * **Ner0N** DynDNS - настроить DNS на свою VM\router\RaspberryPI
 * **ArtemMartynov** TLS - настроить TLS на всоей VM, OpenSSL
 * **ElenaKhudiakova** ***ROcket-DIma** **Violetta16** Kubernetes
