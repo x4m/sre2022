@@ -19,7 +19,7 @@
 * Elixir
 * **Kronos** DNS - регистрация DNS имени в любом регистраторе
 * DynDNS - настроить DNS на свою VM\router\RaspberryPI
-* **ArtemMartynov** TLS - настроить TLS на всоей VM, OpenSSL
+* **ArtemMartynov** TLS - настроить TLS на всоей VM, OpenSSL - https://github.com/ArtemMartynov/OSSL
 * Kubernetes
 * ELK - Elastic, Logstash, Kibana - показать как развернуть и как использовать
 * AWS S3, организация CDN, возможности
