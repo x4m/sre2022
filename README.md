@@ -12,13 +12,13 @@
 
 * **vketel** Docker - архитектура, использование в разработке, репозитарии https://github.com/vketel/Docker-MotionEye
 * NGINX, Envoy
-* Go web server
+* **Ner0N** Go web server
 * **nvetoshkin** Django https://github.com/nvetoshkin/Django
 * ASP.NET MVC Core
 * Ruby on rails
 * Elixir
 * **PestovMaxim** DNS - регистрация DNS имени в любом регистраторе - https://github.com/PestovMaxim/domain-name
-* **Ner0N** DynDNS - настроить DNS на свою VM\router\RaspberryPI
+* DynDNS - настроить DNS на свою VM\router\RaspberryPI
 * **ArtemMartynov** TLS - настроить TLS на всоей VM, OpenSSL
 * **ElenaKhudiakova** ***ROcket-DIma** **Violetta16** Kubernetes
 * **yarah34**ELK - Elastic, Logstash, Kibana - показать как развернуть и как использовать <https://github.com/yarah34/ELK-Elastissearch-Kibana-Logstash->
