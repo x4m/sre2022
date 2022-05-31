@@ -19,7 +19,7 @@
 * Elixir
 * **PestovMaxim** DNS - регистрация DNS имени в любом регистраторе - https://github.com/PestovMaxim/domain-name
 * DynDNS - настроить DNS на свою VM\router\RaspberryPI
-* **ArtemMartynov** TLS - настроить TLS на всоей VM, OpenSSL
+* **ArtemMartynov** TLS - настроить TLS на всоей VM, OpenSSL - https://github.com/ArtemMartynov/OSSL
 * **ElenaKhudiakova** ***ROcket-DIma** **Violetta16** Kubernetes
 * **yarah34**ELK - Elastic, Logstash, Kibana - показать как развернуть и как использовать <https://github.com/yarah34/ELK-Elastissearch-Kibana-Logstash->
 * AWS S3, организация CDN, возможности
