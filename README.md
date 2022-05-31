@@ -29,7 +29,7 @@
 * CI CD в Gitlab
 * CI CD в Bitbucket
 * **Polina** Jenkins - https://gitlab.com/d4910/jenkins_demo
-* git - свой сервер
+* git - свой сервер - https://github.com/KluevAD/Git_Server
 * Open Container Initiative - https://opencontainers.org/ как пользоваться и что это вообще такое
 * Swarm - оркестрация контейнеров
 * PostGIS - у нас же курс про ГИС, давайте поговорим про карты
