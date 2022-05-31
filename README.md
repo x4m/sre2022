@@ -13,7 +13,7 @@
 * **vketel** Docker - архитектура, использование в разработке, репозитарии https://github.com/vketel/Docker-MotionEye
 * NGINX, Envoy
 * **Ner0N** Go web server
-* **nvetoshkin** Django https://github.com/nvetoshkin/Django
+* **nvetoshkin**, **gazizov** Django https://github.com/nvetoshkin/Django
 * ASP.NET MVC Core
 * Ruby on rails
 * Elixir
